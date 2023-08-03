@@ -1,0 +1,7 @@
+num=int(input())
+m=" "
+t=1
+while num>num-num:
+    print((num-1)*m+t*("#"))
+    num=num-1
+    t=t+1
