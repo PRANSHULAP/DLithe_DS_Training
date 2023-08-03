@@ -1,0 +1,6 @@
+v=int(input("Enter no of vehicles:"))
+W=int(input("Enter no of wheels:"))
+TW=((4*v)-W)/2
+FW=v-TW
+print("No of 2 wheeler vehicles:",TW)
+print("No of 4 wheeler vehicles:",FW)
